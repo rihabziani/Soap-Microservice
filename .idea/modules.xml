@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Soap-Microservice.iml" filepath="$PROJECT_DIR$/.idea/Soap-Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2-ws-soap/client-soap-java/client-soap-java/client-soap-java.iml" filepath="$PROJECT_DIR$/tp2-ws-soap/client-soap-java/client-soap-java/client-soap-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2-ws-soap/tp2-ws-gestion-des-comptes/tp2-ws-gestion-des-comptes/tp2-ws-gestion-des-comptes.iml" filepath="$PROJECT_DIR$/tp2-ws-soap/tp2-ws-gestion-des-comptes/tp2-ws-gestion-des-comptes/tp2-ws-gestion-des-comptes.iml" />
+    </modules>
+  </component>
+</project>
